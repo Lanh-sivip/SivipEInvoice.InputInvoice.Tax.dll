@@ -1,0 +1,23 @@
+D:\73.HDDV\Source_new\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\bin\Debug\SivipEInvoice.InputInvoice.Tax.dll
+D:\73.HDDV\Source_new\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\bin\Debug\SivipEInvoice.InputInvoice.Tax.pdb
+D:\73.HDDV\Source_new\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\bin\Debug\Newtonsoft.Json.dll
+D:\73.HDDV\Source_new\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\bin\Debug\sivip.dll
+D:\73.HDDV\Source_new\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\bin\Debug\SivipEInvoice.GetInvoiceData.dll
+D:\73.HDDV\Source_new\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\bin\Debug\Leaf.xNet.dll
+D:\73.HDDV\Source_new\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\bin\Debug\SivipEInvoice.GetInvoiceData.pdb
+D:\73.HDDV\Source_new\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\obj\Debug\SivipEInvoice.InputInvoice.Tax.vbproj.AssemblyReference.cache
+D:\73.HDDV\Source_new\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\obj\Debug\SivipEInvoice.InputInvoice.Tax.vbproj.CoreCompileInputs.cache
+D:\73.HDDV\Source_new\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\obj\Debug\SivipEIn.DE8C9A16.Up2Date
+D:\73.HDDV\Source_new\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\obj\Debug\SivipEInvoice.InputInvoice.Tax.dll
+D:\73.HDDV\Source_new\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\obj\Debug\SivipEInvoice.InputInvoice.Tax.pdb
+D:\Source phần mềm\Tiện ích\Lấy hóa đơn sivip\dll\Update keo hoa don tu hoadondientu.gov_22-12-2024\03.Source\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\bin\Debug\SivipEInvoice.InputInvoice.Tax.dll
+D:\Source phần mềm\Tiện ích\Lấy hóa đơn sivip\dll\Update keo hoa don tu hoadondientu.gov_22-12-2024\03.Source\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\bin\Debug\SivipEInvoice.InputInvoice.Tax.pdb
+D:\Source phần mềm\Tiện ích\Lấy hóa đơn sivip\dll\Update keo hoa don tu hoadondientu.gov_22-12-2024\03.Source\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\bin\Debug\Newtonsoft.Json.dll
+D:\Source phần mềm\Tiện ích\Lấy hóa đơn sivip\dll\Update keo hoa don tu hoadondientu.gov_22-12-2024\03.Source\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\bin\Debug\SivipEInvoice.GetInvoiceData.dll
+D:\Source phần mềm\Tiện ích\Lấy hóa đơn sivip\dll\Update keo hoa don tu hoadondientu.gov_22-12-2024\03.Source\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\bin\Debug\Leaf.xNet.dll
+D:\Source phần mềm\Tiện ích\Lấy hóa đơn sivip\dll\Update keo hoa don tu hoadondientu.gov_22-12-2024\03.Source\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\bin\Debug\SivipEInvoice.GetInvoiceData.pdb
+D:\Source phần mềm\Tiện ích\Lấy hóa đơn sivip\dll\Update keo hoa don tu hoadondientu.gov_22-12-2024\03.Source\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\obj\Debug\SivipEInvoice.InputInvoice.Tax.vbproj.AssemblyReference.cache
+D:\Source phần mềm\Tiện ích\Lấy hóa đơn sivip\dll\Update keo hoa don tu hoadondientu.gov_22-12-2024\03.Source\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\obj\Debug\SivipEInvoice.InputInvoice.Tax.vbproj.CoreCompileInputs.cache
+D:\Source phần mềm\Tiện ích\Lấy hóa đơn sivip\dll\Update keo hoa don tu hoadondientu.gov_22-12-2024\03.Source\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\obj\Debug\SivipEInvoice.InputInvoice.Tax.vbproj.CopyComplete
+D:\Source phần mềm\Tiện ích\Lấy hóa đơn sivip\dll\Update keo hoa don tu hoadondientu.gov_22-12-2024\03.Source\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\obj\Debug\SivipEInvoice.InputInvoice.Tax.dll
+D:\Source phần mềm\Tiện ích\Lấy hóa đơn sivip\dll\Update keo hoa don tu hoadondientu.gov_22-12-2024\03.Source\SivipEInvoice.InputInvoice.Tax\SivipEInvoice.InputInvoice.Tax\obj\Debug\SivipEInvoice.InputInvoice.Tax.pdb
